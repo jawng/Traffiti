@@ -1,5 +1,5 @@
-# Traffiti
-A Smart Traffic Controller implementing Reinforcement Learning to reshape how urbanites move around!
+# Traffiti 
+A Smart Traffic Controller simulation implementing Reinforcement Learning to reshape how urbanites move around!
 
 ### Tech Stacks <br />
 Python * Keras * Numpy * SUMO * TraCI
