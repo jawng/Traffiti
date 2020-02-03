@@ -23,3 +23,5 @@ Able to dig out a solution from a complex research paper "An Efficient Deep Rein
 - Implement Traffiti IRL using computer vision
 - Develop more features like protected lights, pedestrians, multi-lanes
 - Store vehicle data for future usage on insurance, statistics, etc.
+
+Installation of SUMO on MAC: https://sumo.dlr.de/docs/Installing/MacOS_Build.html
